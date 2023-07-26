@@ -1,2 +1,2 @@
 # Library WebREST
-WebREST that simmulates a library database and allows makign changes to it.
+WebREST that simmulates a library database and allows making changes to it.
